@@ -1,0 +1,21 @@
+.scrollspySite {
+    position: relative;
+    overflow: auto;
+    height: 600px;
+  }
+  
+  .textoCarousel {
+    color: #00FFFF;
+    text-shadow: 0 0 20px black, 0 -10px 20px black, 0 10px 20px black, -20px 0 40px black, 20px 0 40px black;
+    font-weight: bold;
+  }
+  
+  .textoCarousel2 {
+    color: white;
+    text-shadow: 0 0 20px #880000, 0 -10px 20px #880000, 0 10px 20px #880000, -20px 0 40px #880000, 20px 0 40px #880000;
+    font-weight: bold;
+  }
+
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
